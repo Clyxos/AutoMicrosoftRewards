@@ -8,5 +8,6 @@ Required Libraries: PyautoGUI
 How to install PyautoGUI:
 1. Make sure you have pip installed. This is done by typing pip in the command prompt.
 2. For Mac Os and potentially Linux, look at other guides on how to do it since its different from windows.
-3. Type into your command line "pip install pyautogui
+3. Type into your command line "pip install pyautogui"
+
 After it installs, you can run the script!
