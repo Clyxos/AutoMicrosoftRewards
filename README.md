@@ -3,8 +3,10 @@ This is a quick and easy python 3.10 script that automatically open edge and sea
 
 
 Required Languages: Python
+
 Required Libraries: PyautoGUI
 
+Operating systems supported: Windows
 How to install PyautoGUI:
 1. Make sure you have pip installed. This is done by typing pip in the command prompt.
 2. For Mac Os and potentially Linux, look at other guides on how to do it since its different from windows.
