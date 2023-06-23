@@ -1,4 +1,4 @@
-import pyautogui as p
+from pyautogui import press, typewrite, click, hotkey as p
 from string import ascii_letters as st
 from random import choices as r
 from time import sleep as t
